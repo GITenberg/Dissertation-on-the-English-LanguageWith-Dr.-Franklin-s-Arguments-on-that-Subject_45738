@@ -1,0 +1,32 @@
+_repo: Dissertation-on-the-English-LanguageWith-Dr.-Franklin-s-Arguments-on-that-Subject_45738
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45738-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Webster, Noah
+    birthdate: 1758
+    deathdate: 1843
+    gutenberg_agent_id: '139'
+    url: http://www.gutenberg.org/2009/agents/139
+    wikipedia: http://en.wikipedia.org/wiki/Noah_Webster
+description: ''
+gutenberg_issued: '2014-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45738'
+  lccn: '11008552'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Grammar -- Early works to 1800'
+- !lcsh 'Spelling reform -- Early works to 1800'
+- !lcsh 'English language -- Early works to 1800'
+- !lcc 'PE'
+title: "Dissertations on the English Language, with Notes, Historical and Critical;\r\
+  \nto Which is Added, by Way of Appendix, an Essay on a Reformed Mode of Spelling,\
+  \ With Dr. Franklin's Arguments on that Subject"
+url: http://www.gutenberg.org/ebooks/45738
